@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adeladun
+- 👋 Hi, I’m @Aishat
 - 👀 I’m interested in becoming a fullstack web developer
 - 🌱 I’m currently learning fullstack web development with EARLY CODE
 - 💞️ I’m looking to collaborate on learning new skills
