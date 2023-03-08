@@ -12,7 +12,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love listening to Reggae music, Pop, and Blues. I love Singing and Dancing too 🤪.
 
-
 ### Talk with me, I am kinda awesome:
 
 [<img align="left" alt="Aishat Adewoyin | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
