@@ -56,7 +56,7 @@
 </details>
 
 <details>
-  <summary> My Most Used Languages</summary>
+  <summary>:zap: My Most Used Languages</summary>
 
 <img align="left" alt="Aisha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&show_icons=true" />
 
