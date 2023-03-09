@@ -7,7 +7,7 @@
 <br/>
 
 ## I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on Full-Stack Web Development. 
-## I an a Digital Marketer, and a Certified SEO Expert
+#  I am a Certified Digital Marketer, and an SEO Expert
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently creating tutorials on HTML and CSS.
 - 🌱 I’m currently learning C programming and Python
