@@ -5,6 +5,7 @@
  <img align="right" alt="GIF" src="https://github.com/Aishat452/Aishat/blob/main/coding.gif?raw=true" width="500" height="320" />
 
 <br/>
+
 ## I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on Full-Stack Web Development. 
 ## I an a Digital Marketer, and a Certified SEO Expert
 - ✍ You can find my projects here [portfolio]
