@@ -14,7 +14,7 @@
 
 ### Talk with me, I am kinda awesome:
 
-[<img align="left" alt="Aishat Adewoyin | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" color="white" alt="Aishat Adewoyin | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="Aishat Adewoyin | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
