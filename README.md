@@ -2,10 +2,9 @@
 
  <img align="right" alt="GIF" src="https://github.com/Aishat452/Aishat/blob/main/coding.gif?raw=true" width="500" height="320" />
 
-
-## I'm a Wife, Mother, Software Engineer, and a Digital Marketer!!
+## I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on Full-Stack Web Development, and Digital Marketer!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my creating tutorials on HTML and CSS.
+- 🔭 I’m currently creating tutorials on HTML and CSS.
 - 🌱 I’m currently learning C programming and Python
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
@@ -42,8 +41,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
 
 <br />
-<br />
----
+
 
 <details>
   <summary>:zap: My GitHub Stats</summary>
