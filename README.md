@@ -1,8 +1,9 @@
-### Hello World, I'm Aishat  👋
+## Hello World, I'm Aishat  👋
 
  <img align="right" alt="GIF" src="https://github.com/Aishat452/Aishat/blob/main/coding.gif?raw=true" width="500" height="320" />
 
-## I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on Full-Stack Web Development, and Digital Marketer!!
+## I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on Full-Stack Web Development. 
+## I an a Digital Marketer, and a Certified SEO Expert
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently creating tutorials on HTML and CSS.
 - 🌱 I’m currently learning C programming and Python
@@ -53,7 +54,7 @@
 <details>
   <summary>:zap: My Most Used Languages</summary>
 
-<img align="left" alt="Aisha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452" />
+<img align="left" alt="Aisha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452 &show_icons=true&hide_border=true" />
 
 </details>
 
