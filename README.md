@@ -1,13 +1,13 @@
-## Hello World, I'm Aishat  👋
+# Hello World, I'm Aishat  👋
 
 <br/>
 
  <img align="right" alt="GIF" src="https://github.com/Aishat452/Aishat/blob/main/coding.gif?raw=true" width="500" height="320" />
 
-<br/>
+<hr/>
 
-## I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on Full-Stack Web Development. 
-#  I am a Certified Digital Marketer, and an SEO Expert
+### I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on Full-Stack Web Development. 
+### I am a Certified Digital Marketer, and an SEO Expert
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently creating tutorials on HTML and CSS.
 - 🌱 I’m currently learning C programming and Python
