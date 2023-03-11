@@ -2,7 +2,7 @@
 
 <br/>
 
- <img center="right" alt="GIF" src="https://github.com/Aishat452/Aishat/blob/main/coder.gif?raw=true" width="500" height="320" />
+ <img center="right" alt="GIF" src="https://github.com/Aishat452/Aishat/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on Full-Stack Web Development. 
 ### I am a Certified Digital Marketer, and an SEO Expert
