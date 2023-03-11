@@ -2,7 +2,7 @@
 
 <br/>
 
- <img center="right" alt="GIF" src="https://github.com/Aishat452/Aishat/blob/main/coding.gif?raw=true" width="500" height="320" />
+ <img center="right" alt="GIF" src="https://github.com/Aishat452/Aishat/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 ### I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on Full-Stack Web Development. 
 ### I am a Certified Digital Marketer, and an SEO Expert
@@ -50,14 +50,14 @@
 <details>
   <summary>:zap: My GitHub Stats</summary>
 
-  <img align="center" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" />
+  <img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: My Most Used Languages</summary>
 
-<img align="center" alt="Aisha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&show_icons=true" />
+<img align="left" alt="Aisha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&show_icons=true" />
 
 </details>
 
