@@ -4,7 +4,7 @@
 
  <img center="right" alt="GIF" src="https://github.com/Aishat452/Aishat/blob/main/code.gif?raw=true" width="500" height="320" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aishat452" alt="Aishat452" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aishat452&label=Profile%20views&color=0e75b6&style=flat" alt="Aishat452" /> </p>
 
 ### I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on Full-Stack Web Development. 
 ### I am a Certified Digital Marketer, and an SEO Expert
