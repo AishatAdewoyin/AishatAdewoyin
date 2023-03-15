@@ -4,6 +4,8 @@
 
  <img center="right" alt="GIF" src="https://github.com/Aishat452/Aishat/blob/main/code.gif?raw=true" width="500" height="320" />
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aishat452" alt="Aishat452" /></a> </p>
+
 ### I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on Full-Stack Web Development. 
 ### I am a Certified Digital Marketer, and an SEO Expert
 - ✍ You can find my projects here [portfolio]
@@ -54,11 +56,7 @@
 </p>
 
 
-<p>
-
-&nbsps;<img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" />
-
-</p>
+<p>&nbsps;<img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" /></p>
 
 <p>
 
