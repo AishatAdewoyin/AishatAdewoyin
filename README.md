@@ -56,13 +56,13 @@
 
 <p>
 
-  <img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" />
+&nbsps;<img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" />
 
 </p>
 
 <p>
 
-<img align="left" alt="Aisha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&show_icons=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidinmichael&" alt="davidinmichael" />
 
 </p>
 
