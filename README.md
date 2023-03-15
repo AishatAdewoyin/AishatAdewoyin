@@ -56,11 +56,11 @@
 </p>
 
 
-<p>&nbsps;<img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" /></p>
+<p>&nbsp;<img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" /></p>
 
 <p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidinmichael&" alt="davidinmichael" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishat452&" alt="Aishat452" />
 
 </p>
 
