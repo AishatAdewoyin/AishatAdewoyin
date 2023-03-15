@@ -48,14 +48,14 @@
 
 
 <p>
-  <summary>:zap: My GitHub Stats</summary>
+  <h4>:zap: My GitHub Stats</h4>
 
   <img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" />
 
 </p>
 
 <p>
-  <summary>:zap: My Most Used Languages</summary>
+  <h4>:zap: My Most Used Languages</h4>
 
 <img align="left" alt="Aisha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&show_icons=true" />
 
