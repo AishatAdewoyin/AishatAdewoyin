@@ -47,19 +47,19 @@
 <br />
 
 
-<details>
+<p>
   <summary>:zap: My GitHub Stats</summary>
 
   <img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" />
 
-</details>
+</p>
 
-<details>
+<p>
   <summary>:zap: My Most Used Languages</summary>
 
 <img align="left" alt="Aisha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&show_icons=true" />
 
-</details>
+</p>
 
 <br/>
 
