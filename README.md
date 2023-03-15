@@ -19,11 +19,11 @@
 
 ### Talk with me, I am kinda awesome:
 
-[<img align="left" color="white" alt="Aishat Adewoyin | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="Aishat Adewoyin | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-[<img align="left" alt="Aishat Adewoyin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p align="left">
+<a href="https://twitter.com/aishaadewoyin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidinmichael" height="30" width="40" /></a>
+<a href="https://facebook.com/aishatomoadewoyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david michael" height="30" width="40" /></a>
+<a href="/https://linkedin.com/in/aishat-adewoyin-45a8141ba/?t=rii6ga_bxaa7z2taqlazpa&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://twitter.com/davidmichael_in?t=rii6ga_bxaa7z2taqlazpa&s=08" height="30" width="40" /></a>
+</p>
 
 <br />
 
@@ -42,7 +42,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][portfolio]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
 
 
 
