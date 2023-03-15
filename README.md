@@ -20,9 +20,9 @@
 ### Talk with me, I am kinda awesome:
 
 <p align="left">
-<a href="https://twitter.com/aishaadewoyin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidinmichael" height="30" width="40" /></a>
-<a href="https://facebook.com/aishatomoadewoyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david michael" height="30" width="40" /></a>
-<a href="/https://linkedin.com/in/aishat-adewoyin-45a8141ba/?t=rii6ga_bxaa7z2taqlazpa&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://twitter.com/davidmichael_in?t=rii6ga_bxaa7z2taqlazpa&s=08" height="30" width="40" /></a>
+<a href="https://twitter.com/aishaadewoyin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aishat Adewoyin" height="30" width="40" /></a>
+<a href="https://facebook.com/aishatomoadewoyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aishat Adewoyin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aishat-adewoyin-45a8141ba?t=rii6ga_bxaa7z2taqlazpa&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://twitter.com/aishatadewoyin_in?t=rii6ga_bxaa7z2taqlazpa&s=08" height="30" width="40" /></a>
 </p>
 
 <br />
