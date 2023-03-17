@@ -42,26 +42,17 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][portfolio]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][portfolio]
 
 
 
 <br />
 
-##<p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishat452&show_icons=true&locale=en&layout=compact" alt="Aishat452" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishat452&show_icons=true&locale=en&layout=compact" alt="Aishat452" />
+<p>&nbsp;<img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" /></p>
 
-</p>
-
-
-##<p>&nbsp;<img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" /></p>
-
-##<p>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishat452&" alt="Aishat452" />
-
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishat452&" alt="Aishat452" /></p>
 
 <br/>
 
