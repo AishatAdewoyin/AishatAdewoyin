@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/aishaadewoyin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aishat Adewoyin twitter" height="30" width="40" /></a>
 <a href="https://facebook.com/aishatomoadewoyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aishat Adewoyin facebook" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aishat-adewoyin-45a8141ba?t=rii6ga_bxaa7z2taqlazpa&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Aishat Adewoyin linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aishat-adewoyin-45a8141ba?t=rii6ga_bxaa7z2taqlazpa&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-in-alt.svg" alt="Aishat Adewoyin linkedin" height="30" width="40" /></a>
 </p>
 
 <br />
