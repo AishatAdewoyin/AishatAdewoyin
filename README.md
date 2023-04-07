@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aishat452&label=Profile%20views&color=0e75b6&style=flat" alt="Aishat452" /> </p>
 
-### I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on Full-Stack Web Development. 
-### I am a Certified Digital Marketer, and an SEO Expert
+### I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on learning Full-Stack Web Development. 
+### I am a Certified Digital Marketer, and an SEO Expert too
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently creating tutorials on HTML and CSS.
 - 🌱 I’m currently learning C programming and Python
@@ -34,7 +34,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][portfolio]
 [<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][portfolio]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][portfolio]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][portfolio]
+[<img align="left" alt="MYSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][portfolio]
 [<img align="left" alt="C programming" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][portfolio]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][portfolio]
 [<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][portfolio]
