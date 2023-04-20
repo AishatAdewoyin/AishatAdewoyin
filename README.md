@@ -6,18 +6,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aishat452&label=Profile%20views&color=0e75b6&style=flat" alt="Aishat452" /> </p>
 
-### I'm a Software Engineering Student at alx_africa. I'm an alumni of Early Code where I concentrated on learning Full-Stack Web Development. 
-### I am a Certified Digital Marketer, and an SEO Expert too
+### I'm a Software Engineering Student. I'm an alumni of Early Code where I concentrated on learning Full-Stack Web Development. 
+### I am a Certified Digital Marketer, and an SEO Expert.
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently creating tutorials on HTML and CSS.
-- 🌱 I’m currently learning C programming and Python
+- 🌱 I’m currently learning C programming, JavaScript and Python
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love listening to Reggae music, Pop, and Blues. I love Singing and Dancing too 🤪.
 
 
-### Talk with me, I am kinda awesome:
+### Speak with me, I am kinda awesome:
 
 <p align="left">
 <a href="https://twitter.com/aishaadewoyin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aishat Adewoyin twitter" height="30" width="40" /></a>
