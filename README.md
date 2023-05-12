@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aishat452&label=Profile%20views&color=0e75b6&style=flat" alt="Aishat452" /> </p>
 
-### I'm a Software Engineering Student. I'm an alumni of Early Code where I concentrated on learning Full-Stack Web Development. 
-### I am a Certified Digital Marketer, and an SEO Expert.
+### I am a Software Engineering Student, an alumni of Early Code where I concentrated on learning Full-Stack Web Development. 
+### I'm a Certified Digital Marketer, and an SEO Expert.
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently creating tutorials on HTML and CSS.
 - 🌱 I’m currently learning C programming, JavaScript and Python
@@ -49,7 +49,7 @@
 
 <br />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishat452&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css,html" alt="Aishat452" />&nbsp;</p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishat452&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css" alt="Aishat452" />&nbsp;</p>
 
 <p>&nbsp;<img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" />&nbsp;</p>
 
