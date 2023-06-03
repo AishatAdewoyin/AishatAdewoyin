@@ -1,6 +1,6 @@
 # Hello World, I'm Aishat  👋
 
-<br/>
+\
 
  <img center="right" alt="GIF" src="https://github.com/Aishat452/Aishat/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -25,7 +25,7 @@
  <a href="https://linkedin.com/in/aishat-adewoyin-45a8141ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishat-adewoyin" height="30" width="40" /></a>
 </p>
 
-<br />
+\
 
 ### Languages and Tools:
 
@@ -45,15 +45,15 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][portfolio]
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][portfolio]
 
-\\\\\\
+\\\
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishat452&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css,html,PHP" alt="Aishat452" />&nbsp;</p>
 
-\\\\\\
+\\\
 
 <p>&nbsp;<img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" />&nbsp;</p>
 
-\\\\\\\
+\\\
 
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishat452&" alt="Aishat452" />&nbsp;</p>
 
