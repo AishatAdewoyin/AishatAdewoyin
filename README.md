@@ -25,7 +25,7 @@
  <a href="https://linkedin.com/in/aishat-adewoyin-45a8141ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishat-adewoyin" height="30" width="40" /></a>
 </p>
 
-<br/>
+---
 
 ### Languages and Tools:
 
