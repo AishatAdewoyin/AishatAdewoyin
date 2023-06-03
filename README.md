@@ -46,6 +46,9 @@
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][portfolio]
 
 <br/>
+
+### Statistics
+
 ---
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishat452&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css,html,PHP" alt="Aishat452" />&nbsp;</p>
