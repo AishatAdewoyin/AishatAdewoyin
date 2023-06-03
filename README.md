@@ -49,7 +49,7 @@
 
 <br />
 
-### Statistics
+### Statistics:
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishat452&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css,html,PHP" alt="Aishat452" />&nbsp;</p>
 
