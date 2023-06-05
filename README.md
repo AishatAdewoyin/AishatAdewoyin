@@ -68,11 +68,8 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishat452&background=000000&ring=DD2727&fire=DD2727&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=DD2727" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishat452&background=000000&" alt="GitHub Streak" style="filter: grayscale(100%);" />
 </p>
-
-
-
 
 ---
 
