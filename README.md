@@ -72,22 +72,18 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 
 ---
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START
 - [How to Build a Responsive Website with HTML and CSS](https://yourblog.com/post1)
 - [10 Tips for Effective Digital Marketing](https://yourblog.com/post2)
 - [Getting Started with Python: A Beginner's Guide](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:END -->
 
----
+### 🤝 Contributing or Collaborating
 
-### 🤝 Contributing
+Thank you for visiting my profile! If you find any issue(s) or have idea(s) for improvement, please feel free to contribute. You can fork the repository, create a new branch, make your changes, and submit a pull request.
 
-If you find any issues or have ideas for improvement, please feel free to contribute! You can fork the repository, create a new branch, make your changes, and submit a pull request. 
+If you would like to explore my projects or have any questions or suggestions for me, feel free to reach out via social media. I'm always open to learning and collaborating.
 
-If you have any questions or suggestions, feel free to reach out to me. I'm always open to learning and collaborating.
-
----
-
-Thank you for visiting my profile! Feel free to explore my projects too and connect with me on social media. I'm excited to be part of the coding community and look forward to learning and growing together. Happy coding! 😊🚀
+Happy coding! 😊🚀
