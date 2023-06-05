@@ -43,20 +43,20 @@
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][portfolio]
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][portfolio]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][portfolio]
-[<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][portfolio]
+[<img align="left" alt="Vim" width="26px" style="margin-bottom: 20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][portfolio]
 
 ---
 
 <br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishat452&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css" alt="Aishat452" />&nbsp;</p>
+<p>&nbsp;<img align="left" style="margin-bottom: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishat452&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css" alt="Aishat452" />&nbsp;</p>
 
 ---
 
-<p>&nbsp;<img align="left" alt="Aishat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" />&nbsp;</p>
+<p>&nbsp;<img align="left" alt="Aishat's GitHub Stats" style="margin-bottom: 30px;" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" />&nbsp;</p>
 
 ---
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishat452&" alt="Aishat452" />&nbsp;</p>
+<p>&nbsp;<img align="left" style="margin-bottom: 30px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishat452&" alt="Aishat452" />&nbsp;</p>
 
 <!-- [website]: https://holistic-developer.com/ -->
 [twitter]: https://twitter.com/aishaadewoyin
