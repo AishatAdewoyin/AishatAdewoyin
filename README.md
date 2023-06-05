@@ -82,8 +82,8 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 
 ### 🤝 Contributing or Collaborating
 
-Thank you for visiting my profile! If you find any issue(s) or have idea(s) for improvement, please feel free to contribute. You can fork the repository, create a new branch, make your changes, and submit a pull request.
+Thank you for visiting my profile! If you find any issue(s) or have idea(s) for improvement, please feel free to contribute. You can fork the repository you'll like to contribute to, create a new branch, make your changes, and submit a pull request.
 
 If you would like to explore my projects or have any questions or suggestions for me, feel free to reach out via social media. I'm always open to learning and collaborating.
 
-Happy coding! 😊🚀
+Happy Coding! 😊🥰🚀
