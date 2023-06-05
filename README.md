@@ -1,7 +1,7 @@
 ## Hello World, I'm Aishat! 👋
 
 <p align="center">
-  <img src="https://github.com/Aishat452/Aishat/blob/main/code.gif?raw=true" alt="Coding GIF" width="500" height="320" />
+  <img src="https://github.com/Aishat452/Aishat452/blob/main/coding.gif?raw=true" alt="Coding GIF" width="500" height="320" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I love listening to Reggae, Pop, and Blues. I also enjoy singing and dancing. 🤪
+- ⚡ Fun fact: I love listening to Reggae, Pop, and Blues. I also enjoy singing and dancing.💃🥰
 
 ### Connect with me:
 
