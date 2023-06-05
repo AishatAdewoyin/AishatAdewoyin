@@ -1,67 +1,93 @@
-# Hello World, I'm Aishat  👋
+# Hello World, I'm Aishat! 👋
 
-<br/>
+<p align="center">
+  <img src="https://github.com/Aishat452/Aishat/blob/main/code.gif?raw=true" alt="Coding GIF" width="500" height="320" />
+</p>
 
- <img center="right" alt="GIF" src="https://github.com/Aishat452/Aishat/blob/main/code.gif?raw=true" width="500" height="320" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aishat452&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aishat452&label=Profile%20views&color=0e75b6&style=flat" alt="Aishat452" /> </p>
+I am a Software Engineering student and an alumni of Early Code, where I focused on learning Full-Stack Web Development. I'm also a Certified Digital Marketer and an SEO Expert.
 
-### I am a Software Engineering Student, an alumni of Early Code where I concentrated on learning Full-Stack Web Development. 
-### I'm a Certified Digital Marketer, and an SEO Expert.
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects in my [portfolio](https://github.com/Aishat452/)
 - 🔭 I’m currently creating tutorials on HTML and CSS.
-- 🌱 I’m currently learning C programming, JavaScript and Python
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love listening to Reggae music, Pop, and Blues. I love Singing and Dancing too 🤪.
+- 🌱 I’m currently learning C programming, JavaScript, and Python.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about anything.
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: I love listening to Reggae, Pop, and Blues. I also enjoy singing and dancing. 🤪
 
+### Connect with me:
 
-### Speak with me, I am kinda awesome:
+<p align="center">
+  <a href="https://twitter.com/aishaadewoyin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://facebook.com/aishatomoadewoyin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/aishat-adewoyin-45a8141ba" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
 
-<p align="left">
-<a href="https://twitter.com/aishaadewoyin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aishat Adewoyin twitter" height="30" width="40" /></a>
-<a href="https://facebook.com/aishatomoadewoyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aishat Adewoyin facebook" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/aishat-adewoyin-45a8141ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishat-adewoyin" height="30" width="40" /></a>
+### Languages and Tools:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="GitHub" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="26" height="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" width="26" height="26" />
 </p>
 
 ---
 
-### Languages and Tools:
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][portfolio]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][portfolio]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][portfolio]
-[<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][portfolio]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][portfolio]
-[<img align="left" alt="MYSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][portfolio]
-[<img align="left" alt="C programming" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][portfolio]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][portfolio]
-[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][portfolio]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][portfolio]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][portfolio]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][portfolio]
-[<img align="left" alt="Vim" width="26px" style="margin-bottom: 20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][portfolio]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&layout=compact&langs_count=10&hide=css" alt="Top Languages" />
+</p>
 
 ---
 
-<br/>
-<p>&nbsp;<img align="left" style="margin-bottom: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishat452&show_icons=true&locale=en&layout=compact&langs_count=10&hide=css" alt="Aishat452" />&nbsp;</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
-<p>&nbsp;<img align="left" alt="Aishat's GitHub Stats" style="margin-bottom: 30px;" src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" />&nbsp;</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishat452&" alt="GitHub Streak" />
+</p>
 
 ---
 
-<p>&nbsp;<img align="left" style="margin-bottom: 30px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishat452&" alt="Aishat452" />&nbsp;</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aishat452&theme=juicyfresh&margin-w=8&no-bg=true" alt="GitHub Trophies" />
+</p>
 
-<!-- [website]: https://holistic-developer.com/ -->
-[twitter]: https://twitter.com/aishaadewoyin
-[portfolio]: https://github.com/Aishat452/
-[linkedin]: https://www.linkedin.com/in/aishat-adewoyin-45a8141ba/
-[facebook]: https://www.facebook.com/aishatomoadewoyin/
-[youtube]: https://www.youtube.com/c/DigitalIntellectualHub
-[instagram]: https://www.instagram.com/digitalintellectualhub_co/
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Responsive Website with HTML and CSS](https://yourblog.com/post1)
+- [10 Tips for Effective Digital Marketing](https://yourblog.com/post2)
+- [Getting Started with Python: A Beginner's Guide](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🤝 Contributing
+
+If you find any issues or have ideas for improvement, please feel free to contribute! You can fork the repository, create a new branch, make your changes, and submit a pull request. 
+
+If you have any questions or suggestions, feel free to reach out to me. I'm always open to learning and collaborating.
+
+---
+
+Thank you for visiting my profile! Feel free to explore my projects too and connect with me on social media. I'm excited to be part of the coding community and look forward to learning and growing together. Happy coding! 😊🚀
