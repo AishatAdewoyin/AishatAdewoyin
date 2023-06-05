@@ -23,7 +23,7 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I love listening to Reggae, Pop, and Blues. I also enjoy singing and dancing.💃🥰
+- ⚡ Fun fact: I love listening to Reggae, Pop, and Blues. I also enjoy singing and dancing.🥰
 
 ### Connect with me:
 
