@@ -20,7 +20,7 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 
 ### Connect with me:
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/aishaadewoyin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://facebook.com/aishatomoadewoyin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/aishat-adewoyin-45a8141ba" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -28,7 +28,7 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 
 ### Languages and Tools:
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="26" height="26" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="26" height="26" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="26" height="26" />
@@ -66,8 +66,8 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aishat452&theme=juicyfresh&margin-w=8&no-bg=true" alt="GitHub Trophies" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aishat452&theme=juicyfresh&margin-w=4&no-bg=false" alt="GitHub Trophies" />
 </p>
 
 ---
