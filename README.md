@@ -8,6 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=Aishat452&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aishat452&theme=juicyfresh&margin-w=12&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 I am a Software Engineering student and an alumni of Early Code, where I focused on learning Full-Stack Web Development. I'm also a Certified Digital Marketer and an SEO Expert.
 
 - ✍ You can find my projects in my [portfolio](https://github.com/Aishat452/)
@@ -66,11 +72,6 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 
 ---
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aishat452&theme=juicyfresh&margin-w=4&no-bg=false" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 📕 Latest Blog Posts
 
