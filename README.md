@@ -55,20 +55,22 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&layout=compact&langs_count=10&hide=css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&layout=compact&langs_count=10&hide=css&bg_color=000000" alt="Top Languages" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true&bg_color=000000" alt="GitHub Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishat452&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishat452&background=000000&" alt="GitHub Streak" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishat452&" alt="GitHub Streak" />
-</p>
 
 ---
 
