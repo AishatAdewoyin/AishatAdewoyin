@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aishat452&theme=juicyfresh&margin-w=8&bg=true&row=0.5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aishat452&theme=juicyfresh&margin-w=8&bg=ffffff&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
