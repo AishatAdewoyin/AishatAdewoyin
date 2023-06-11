@@ -19,7 +19,7 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 
 - ✍ You can find my projects in my [portfolio](https://github.com/Aishat452/)
 - 🔭 I’m currently teaching beginners HTML and CSS.
-- 🌱 I’m currently learning C programming, JavaScript, and Python.
+- 🌱 I’m also currently learning JavaScript, C programming, and Python.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything.
 - 😄 Pronouns: She/Her.
