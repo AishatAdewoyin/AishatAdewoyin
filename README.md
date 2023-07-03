@@ -15,12 +15,12 @@
 
 ---
 
-I am a Software Engineering student and an alumni of Early Code, where I focused on learning Full-Stack Web Development. I'm also a Certified Digital Marketer and an SEO Expert.
+I am a Software Engineering student and an alumnus of Early Code, where I focused on learning Full-Stack Web Development. I'm also a Certified Digital Marketer and an SEO Expert.
 
 - ✍ You can find my projects in my [portfolio](https://github.com/Aishat452/)
 - 🔭 I’m currently teaching beginners HTML and CSS.
 - 🌱 I’m also currently learning JavaScript, C programming, and Python.
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I love listening to Reggae, Pop, and Blues. I also enjoy singing and dancing.🥰
@@ -30,7 +30,7 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 <p align="left">
   <a href="https://twitter.com/aishaadewoyin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://facebook.com/aishatomoadewoyin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/aishat-adewoyin-45a8141ba" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/aishatadewoyin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
@@ -82,7 +82,7 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 
 ### 🤝 Contributing or Collaborating
 
-If you find any issue or have any idea(s) for the improvement of my projects, please feel free to contribute. You can fork the repository you'll like to contribute to, create a new branch, make your changes, and submit a pull request.
+If you find any issues or have any idea(s) for the improvement of my projects, please feel free to contribute. You can fork the repository you'll like to contribute to, create a new branch, make your changes, and submit a pull request.
 
 If you would like to explore my projects or have any questions or suggestions for me, feel free to reach out via social media. I'm always open to learning and collaborating.
 
