@@ -55,7 +55,7 @@ I am a Software Engineering student and an alumni of Early Code, where I focused
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&layout=compact&langs_count=10&hide=css,html,PHP" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&layout=compact&langs_count=10&hide=css" alt="Top Languages" />
 </p>
 
 ---
