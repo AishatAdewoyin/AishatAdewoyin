@@ -17,7 +17,7 @@
 
 I am a Software Engineering student and an alumnus of Early Code, where I focused on learning Full-Stack Web Development. I'm also a Certified Digital Marketer and an SEO Expert.
 
-- ✍ You can find my projects in my [portfolio](https://github.com/Aishat452/)
+- ✍ You can find my projects in my [portfolio website]((https://aishat452.github.io/portfolio/index.html)), or scroll through my repositories.
 - 🔭 I’m currently teaching beginners HTML and CSS.
 - 🌱 I’m also currently learning JavaScript, C programming, and Python.
 - 👯 I’m looking to collaborate on open-source projects.
