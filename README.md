@@ -17,13 +17,13 @@
 
 I am a Software Engineering student and an alumnus of Early Code, where I focused on learning Full-Stack Web Development. I'm also a Certified Digital Marketer and an SEO Expert.
 
-- ✍ You can find my projects in my [portfolio website](https://aishat452.github.io/portfolio/index.html), or scroll through my Github repositories.
-- 🔭 I’m currently teaching beginners HTML and CSS.
-- 🌱 I’m also currently learning JavaScript, C programming, and Python.
+- ✍ You can find my projects in my [portfolio website](https://aishat452.github.io/portfolio/index.html){:target="_blank"}, or scroll through my Github repositories.
+- 🔭 I’m currently teaching beginners HTML, CSS, Bootstrap, JavaScript and SCSS.
+- 🌱 I’m also currently learning Backend Development and iOS Development.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I love listening to Reggae, Pop, and Blues. I also enjoy singing and dancing.🥰
+- ⚡ Fun fact: I love listening to Reggae and Blues. I love singing and dancing.🥰
 
 ### Connect with me:
 
