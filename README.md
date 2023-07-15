@@ -15,7 +15,7 @@
 
 ---
 
-I am a Software Engineering student and an alumnus of Early Code, where I focused on learning Full-Stack Web Development. I'm also a Certified Digital Marketer and an SEO Expert.
+I am a Software Engineering student @ ALX Africa Cohort 13 and an alumnus of Early Code, where I focused on learning Full-Stack Web Development. I'm also a Certified Digital Marketer and an SEO Expert.
 
 - ✍ You can find my projects in my [portfolio website](https://aishatadewoyin.tech/), or scroll through my Github repositories.
 - 🔭 I’m currently teaching beginners HTML, CSS, Bootstrap, JavaScript, and SCSS.
@@ -23,7 +23,7 @@ I am a Software Engineering student and an alumnus of Early Code, where I focuse
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I love listening to Reggae and Blues. I love singing and dancing.🥰
+- ⚡ Fun fact: I love listening to Reggae and Blues 🥰
 
 ### Connect with me:
 
