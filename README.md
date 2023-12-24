@@ -55,7 +55,7 @@ I'm a Software Engineering student @ ALX Africa and an alumnus of Early Code, wh
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&layout=compact&langs_count=10&hide=css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishat452&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
