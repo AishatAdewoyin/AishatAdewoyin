@@ -17,7 +17,7 @@
 
 I'm a Software Engineering student @ ALX Africa and an alumnus of Early Code, where I focused on learning Full-Stack Web Development. A certified Digital Marketer, and an SEO Expert.
 
-- ✍ You can find my projects in my [portfolio website](https://aishatadewoyin.tech/), or scroll through my Github repositories.
+- ✍ You can find my projects in my [portfolio website](https://aishat-adewoyin.vercel.app/), or scroll through my Github repositories.
 - 🔭 I’m teaching beginners HTML, CSS, Bootstrap, JavaScript, and SCSS.
 - 🌱 I’m also currently learning Backend Development and iOS Development.
 - 👯 I’m looking to collaborate on open-source projects.
