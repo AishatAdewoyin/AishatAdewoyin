@@ -1,7 +1,7 @@
 ## Hello World, I'm Aishat! 👋
 
 <p align="center">
-  <img src="https://github.com/AishatAdewoyin/AishatAdewoyin/blob/main/code.gif?raw=true" alt="Coding GIF" width="700" height="380" />
+  <img src="https://github.com/AishatAdewoyin/AishatAdewoyin/blob/main/coder.gif?raw=true" alt="Coding GIF" width="700" height="380" />
 </p>
 
 <p align="center">
