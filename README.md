@@ -1,7 +1,7 @@
 ## Hello World, I'm Aishat! 👋
 
 <p align="center">
-  <img src="https://github.com/AishatAdewoyin/AishatAdewoyin/blob/main/coding.gif?raw=true" alt="Coding GIF" width="700" height="380" />
+  <img src="https://github.com/AishatAdewoyin/AishatAdewoyin/blob/main/coder.gif?raw=true" alt="Coding GIF" width="700" height="380" />
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@ I'm a Software Engineering student @ ALX Africa and an alumnus of Early Code, wh
 ### Connect with me:
 
 <p align="left">
-  <a href="https://twitter.com/aishaadewoyin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://facebook.com/aishadewoyin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://twitter.com/adewoyinaishat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://facebook.com/aishatadewoyin.page" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/aishatadewoyin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
@@ -55,7 +55,7 @@ I'm a Software Engineering student @ ALX Africa and an alumnus of Early Code, wh
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishatAdewoyin&layout=compact&langs_count=10&hide=css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishatAdewoyin&layout=compact&langs_count=12&hide=css" alt="Top Languages" />
 </p>
 
 ---
@@ -86,4 +86,4 @@ If you find any issues or have any ideas for the improvement of my projects, ple
 
 If you would like to explore my projects or have any questions or suggestions for me, feel free to reach out via social media. I'm always open to learning and collaborating.
 
-Nice Meeting You! and Happy Coding! 🥰🚀
+Nice Meeting You! Happy Coding! 🥰🚀
