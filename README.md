@@ -61,8 +61,9 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 
 ---
 
-### 📊 My GitHub Stats:
+### 📊 My Personal Stats:
 
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishatAdewoyin&layout=compact&theme=dark" alt="Top Languages" />
 </p>
@@ -79,7 +80,9 @@ My mission is to build tech solutions that solve real-world problems, with a spe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishatAdewoyin&theme=dark" alt="GitHub Streak" />
 </p>
 
-### 📊 My Wakatime Weekly Coding Stats:
+---
+
+### 📊 Wakatime Weekly Coding Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aishatadewoyin&theme=dark" alt="Wakatime Coding Stats" />
