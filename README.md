@@ -94,7 +94,7 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishatadewoyin/)](https://www.linkedin.com/in/aishatadewoyin/)
 - **Twitter**: ![Twitter Follow](https://img.shields.io/twitter/follow/adewoyinaishat?style=social) — Follow me on Twitter for updates!
-- **YouTube**: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/c/DigitalIntellectualHub?style=social) — Check out my videos on YouTube(still rebranding).
+- **YouTube**: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/DigitalIntellectualHub?style=social) — Check out my videos on YouTube(still rebranding).
 
 ---
 
