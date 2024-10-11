@@ -65,6 +65,7 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 
 ### 📊 Personal Stats:
 
+
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishatAdewoyin&layout=compact&theme=dark" alt="Top Languages" />
@@ -86,6 +87,7 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 
 ### 📊 Wakatime Weekly Coding Stats:
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aishatadewoyin&theme=dark" alt="Wakatime Coding Stats" />
 </p>
@@ -94,13 +96,15 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 
 ### 📈 Connect with Me Through My Social Handles:
 
+
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishatadewoyin/)](https://www.linkedin.com/in/aishatadewoyin/)
 - **Twitter**: ![Twitter Follow](https://img.shields.io/twitter/follow/adewoyinaishat?style=social) — Follow me on Twitter for updates!
 - **YouTube**: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD0tTuoB6R94gRwsscM7U2A?style=social) — Check out my videos on YouTube(still rebranding).
 
 ---
 
-### 🤝 Contributing or Collaborating
+### 🤝 Contributing or Collaborating:
+
 
 If you find any issues or have ideas to improve my projects, feel free to contribute. Fork the repository, create a new branch, make your changes, and submit a pull request.
 
