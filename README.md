@@ -30,10 +30,10 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 
 ### 📚 Interesting Facts About Me:
 
-- ✍ I love writing poems and exploring themes like **self-acceptance, self-accountability and resilience**
-- **due to my struggles with impostor syndrome as I journey through my learning processes**.
+- ✍️ I love writing poems and listening to meaningful lyrics.
+- 🙇 Due to my struggles with impostor syndrome and self-criticism as I journey through my programming learning processes, I enjoy exploring themes like **self-acceptance, self-analysis, self-reliance, resilience, and growth**
 - 🎨 I have a keen eye for **design, and yes 🙌 I love color**, which makes front-end development exciting for me.
-- 🧘‍♀️ I enjoy meditating and practicing mindfulness to maintain mental clarity.
+- 🧘‍♀️ I enjoy meditating and practicing mindfulness to maintain mental clarity while learning.
 - 🌍 I’m passionate about building **digital products** that solves real-world problems, especially in **mental health**.
 
 ---
