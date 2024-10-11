@@ -68,7 +68,7 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishatAdewoyin&layout=compact&theme=dark&hide=css,c" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishatAdewoyin&layout=compact&theme=dark&hide=css,c,tcl" alt="Top Languages" />
 </p>
 
 ---
