@@ -1,4 +1,4 @@
-<h2>Hello World, I'm Aishat! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand"></h2>
+<h1>Hello World, I'm Aishat! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand"></h1>
 
 <p align="center">
   <img src="https://github.com/AishatAdewoyin/AishatAdewoyin/blob/main/code.gif?raw=true" alt="Coding GIF" width="700" height="380" />
