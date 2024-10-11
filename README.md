@@ -15,15 +15,17 @@
 
 ---
 
-I'm a Software Engineering student @ ALX Africa and an alumnus of Early Code, where I focused on learning Full-Stack Web Development. A certified Digital Marketer, and an SEO Expert.
+I'm a **Software Engineer**, a graduate of ALX Software Engineering, and I'm currently expanding my knowledge by bringing my projects fully to life. My focus is on **AI/ML** at Aptech Nigeria, and I'm a **Data Science** student at Miva Open University. With a solid foundation in **Full-Stack Web Development**, my journey has taken me from mastering digital marketing to becoming a software engineer passionate about building innovative tech solutions.
 
-- ✍ You can find my projects in my [portfolio website](https://aishat-adewoyin.vercel.app/), or scroll through my Github repositories.
+- ✍ You can find my projects on my [portfolio website](https://aishat-adewoyin.vercel.app/) or explore my GitHub repositories.
 - 🔭 I’m teaching beginners HTML, CSS, Bootstrap, JavaScript, and SCSS.
-- 🌱 I’m also currently learning Backend Development and iOS Development.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about anything.
+- 🌱 Expanding my knowledge in AI/ML and Backend Development.
+- 👯 I’m open to collaborations on **open-source** projects.
+- 💬 Feel free to ask me anything about **tech, career advice, or coding tips**.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I love listening to Reggae and Blues 🥰
+- ⚡ Fun fact: I love **Reggae and Blues** 🥰.
+
+---
 
 ### Connect with me:
 
@@ -33,23 +35,22 @@ I'm a Software Engineering student @ ALX Africa and an alumnus of Early Code, wh
   <a href="https://linkedin.com/in/aishatadewoyin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
+---
+
 ### Languages and Tools:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="23" height="23" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="23" height="23" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="23" height="23" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" width="23" height="23" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="23" height="23" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="23" height="23" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="23" height="23" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" width="23" height="23" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="23" height="23" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="23" height="23" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="23" height="23" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="23" height="23" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="23" height="23" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="23" height="23" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" width="23" height="23" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="23" height="23" />
 </p>
 
 ---
@@ -72,18 +73,12 @@ I'm a Software Engineering student @ ALX Africa and an alumnus of Early Code, wh
 
 ---
 
-<!-- ### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START
-- [How to Build a Responsive Website with HTML and CSS](https://yourblog.com/post1)
-- [10 Tips for Effective Digital Marketing](https://yourblog.com/post2)
-- [Getting Started with Python: A Beginner's Guide](https://yourblog.com/post3)
- BLOG-POST-LIST:END -->
-
 ### 🤝 Contributing or Collaborating
 
-If you find any issues or have any ideas for the improvement of my projects, please feel free to contribute. You can fork the repository you'd like to contribute to, create a new branch, make your changes, and submit a pull request.
+If you find any issues or have ideas to improve my projects, feel free to contribute. Fork the repository, create a new branch, make your changes, and submit a pull request.
 
-If you would like to explore my projects or have any questions or suggestions for me, feel free to reach out via social media. I'm always open to learning and collaborating.
+If you'd like to explore my projects or have any questions or suggestions, feel free to connect with me via social media. I'm always open to learning, collaboration, and new opportunities.
 
-Nice Meeting You! Happy Coding! 🥰🚀
+---
+
+**Nice meeting you! Let’s build something impactful together!** 🥰🚀
