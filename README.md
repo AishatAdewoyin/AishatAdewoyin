@@ -20,6 +20,7 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 ---
 
 ### 🏆 My Goals and Programs:
+
 - 🎓 Pursuing a **Bachelor's in Data Science** at Miva Open University.
 - 📚 Studying **Advanced Diploma in Software Engineering(ADSE) with specialisation in AI/ML** at Aptech Nigeria.
 - 🚀 Building and completing **real-life AI/ML and web development projects which is very key, for my accountability purposes**.
@@ -28,6 +29,7 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 ---
 
 ### 📚 Interesting Facts About Me:
+
 - ✍ I love writing poems and exploring themes like **self-acceptance, self-accountability and resilience**
 - **due to my struggles with impostor syndrome as I journey through my learning processes**.
 - 🎨 I have a keen eye for **design, and yes 🙌 I love color**, which makes front-end development exciting for me.
@@ -61,7 +63,7 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 
 ---
 
-### 📊 My Personal Stats:
+### 📊 Personal Stats:
 
 ---
 <p align="center">
@@ -90,11 +92,11 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 
 ---
 
-### 📈 Social Media:
+### 📈 Connect with Me Through My Social Handles:
 
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishatadewoyin/)](https://www.linkedin.com/in/aishatadewoyin/)
 - **Twitter**: ![Twitter Follow](https://img.shields.io/twitter/follow/adewoyinaishat?style=social) — Follow me on Twitter for updates!
-- **YouTube**: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/DigitalIntellectualHub?style=social) — Check out my videos on YouTube(still rebranding).
+- **YouTube**: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD0tTuoB6R94gRwsscM7U2A?style=social) — Check out my videos on YouTube(still rebranding).
 
 ---
 
