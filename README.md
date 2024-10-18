@@ -24,7 +24,7 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 - 🎓 Pursuing a **Bachelor's in Data Science** at Miva Open University.
 - 📚 Studying **Advanced Diploma in Software Engineering(ADSE) with specialization in AI/ML** at Aptech Nigeria.
 - 🚀 Building and completing **real-life AI/ML and web development projects which is very key, for my accountability purposes**.
-- 💡 Focused on creating **AI solutions** for mental well-being and women's health.
+- 💡 Focusing on creating **AI solutions** for mental well-being and women's health.
 
 ---
 
@@ -85,12 +85,8 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 
 ---
 
-### 📊 Wakatime Weekly Coding Stats:
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aishatadewoyin&theme=dark" alt="Wakatime Coding Stats" />
-</p>
+### 👩‍💻 Visit my Portfolio Website:
+- **Portfolio Website**: [Visit my Portfolio Website](https://aishat-adewoyin.vercel.app/)
 
 ---
 
@@ -103,12 +99,22 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 
 ---
 
+
+### 📊 Wakatime Weekly Coding Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aishatadewoyin&theme=dark" alt="Wakatime Coding Stats" />
+</p>
+
+
+---
+
 ### 🤝 Contributing or Collaborating:
 
 
 If you find any issues or have ideas to improve my projects, feel free to contribute. Fork the repository, create a new branch, make your changes, and submit a pull request.
 
-If you'd like to explore my projects or have any questions or suggestions, feel free to connect with me via social media. I'm always open to learning, collaboration, and new opportunities.
+If you'd like to explore my projects or have any questions or suggestions, feel free to connect with me via social media. I'm always open to learnings, collaborations, and new opportunities.
 
 ---
 
