@@ -100,11 +100,12 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 ---
 
 
-### 📊 Wakatime Weekly Coding Stats:
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aishatadewoyin&theme=dark" alt="Wakatime Coding Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aishatadewoyin&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+
 
 
 ---
