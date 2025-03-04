@@ -17,14 +17,13 @@ My passion lies in **building innovative tech solutions that address real-world 
 
 ---
 
-### 🏆 My Goals and Programs:
+<!-- ### 🏆 My Goals and Programs:
 
 - 🎓 Pursuing a **Bachelor's in Data Science** at Miva Open University.
 - 📚 Studying **Advanced Diploma in Software Engineering(ADSE) with specialization in AI/ML** at Aptech Nigeria.
 - 🚀 Building and completing **real-life AI/ML and web development projects which is very key, for my accountability purposes**.
-- 💡 Focusing on creating **AI solutions** for mental well-being and women's health.
+- 💡 Focusing on creating **AI solutions** for mental well-being and women's health. -->
 
----
 
 ### 📚 Interesting Facts About Me:
 
@@ -62,7 +61,7 @@ My passion lies in **building innovative tech solutions that address real-world 
 
 ---
 
-### 📊 Personal Stats:
+<!-- ### 📊 Personal Stats:
 
 
 ---
@@ -80,7 +79,7 @@ My passion lies in **building innovative tech solutions that address real-world 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishatAdewoyin&theme=dark" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
@@ -94,7 +93,7 @@ My passion lies in **building innovative tech solutions that address real-world 
 
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishatadewoyin/)](https://www.linkedin.com/in/aishatadewoyin/)
 - **Twitter**: ![Twitter Follow](https://img.shields.io/twitter/follow/adewoyinaishat?style=social) — Follow me on Twitter for updates!
-- **YouTube**: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD0tTuoB6R94gRwsscM7U2A?style=social) — Check out my videos on YouTube(still rebranding).
+- **YouTube**: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD0tTuoB6R94gRwsscM7U2A?style=social) — Exciting content coming soon! Subscribe to stay updated on tech insights and tutorials.
 
 ---
 
@@ -103,7 +102,7 @@ My passion lies in **building innovative tech solutions that address real-world 
 
 If you find any issues or have ideas to improve my projects, feel free to contribute. Fork the repository, create a new branch, make your changes, and submit a pull request.
 
-If you'd like to explore my projects or have any questions or suggestions, feel free to connect with me via social media. I'm always open to learnings, collaborations, and new opportunities.
+I'm always open to collaborations and knowledge sharing. If you're interested in working together on an exciting project, let's connect!
 
 ---
 
