@@ -24,18 +24,6 @@ My passion lies in **building innovative tech solutions that address real-world 
 - 🚀 Building and completing **real-life AI/ML and web development projects which is very key, for my accountability purposes**.
 - 💡 Focusing on creating **AI solutions** for mental well-being and women's health. -->
 
-
-### 📚 Interesting Facts About Me:
-
-- ✍️ I love writing poems and listening to meaningful lyrics.
-- 🙇 Due to my struggles with impostor syndrome and self-criticism as I journey through my programming learning processes, I explore themes of **self-acceptance, self-analysis, resilience, and growth in my writing**.
-
-- 🎨 I have a keen eye for **design, and yes 🙌 I love colors**, which makes front-end development exciting for me.
-- 🧘‍♀️ I enjoy jornaling and practicing mindfulness to maintain mental clarity while learning.
-- 🌍 With a strong background in full-stack development and a growing expertise in AI/ML, I'm committed to building impactful solutions that merge technology with real-world needs, particularly for small business, mental well-being and women's health.
-
----
-
 ### 💻 Most Used Languages and Tools:
 
 <p align="center">
@@ -83,13 +71,23 @@ My passion lies in **building innovative tech solutions that address real-world 
 
 ---
 
+### 📚 Interesting Facts About Me:
+
+- ✍️ I love writing poems and listening to meaningful lyrics.
+- 🙇 Due to my struggles with impostor syndrome and self-criticism as I journey through my programming learning processes, I explore themes of **self-acceptance, self-analysis, resilience, and growth in my writing**.
+
+- 🎨 I have a keen eye for **design, and yes 🙌 I love colors**, which makes front-end development exciting for me.
+- 🧘‍♀️ I enjoy jornaling and practicing mindfulness to maintain mental clarity while learning.
+- 🌍 With a strong background in full-stack development and a growing expertise in AI/ML, I'm committed to building impactful solutions that merge technology with real-world needs, particularly for small business, mental well-being and women's health.
+
+---
+
 ### 👩‍💻 Visit my Portfolio Website:
 - **Portfolio Website**: [Visit my Portfolio Website](https://aishatadewoyin.com/)
 
 ---
 
 ### 📈 Connect with Me Through My Social Handles:
-
 
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishatadewoyin/)](https://www.linkedin.com/in/aishatadewoyin/)
 - **Twitter**: ![Twitter Follow](https://img.shields.io/twitter/follow/adewoyinaishat?style=social) — Follow me on Twitter for updates!
