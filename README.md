@@ -1,8 +1,12 @@
 <h1>Hello World, I'm Aishat! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand"></h1>
 
+---
+
 <p align="center">
   <img src="https://github.com/AishatAdewoyin/AishatAdewoyin/blob/master/images/coder.gif?raw=true" alt="Coding GIF" width="650" height="350" />
 </p>
+
+---
 
 
 <p align="center">
@@ -69,7 +73,6 @@ My passion lies in **building innovative tech solutions that address real-world 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishatAdewoyin&theme=dark" alt="GitHub Streak" />
 </p> -->
 
----
 
 ### 📚 Interesting Facts About Me:
 
