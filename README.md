@@ -4,9 +4,6 @@
   <img src="https://github.com/AishatAdewoyin/AishatAdewoyin/blob/master/images/coder.gif?raw=true" alt="Coding GIF" width="650" height="350" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AishatAdewoyin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AishatAdewoyin&theme=darkhub&margin-w=8&no-bg=true&row=1" alt="GitHub Trophies" />
