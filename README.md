@@ -14,8 +14,9 @@
 
 ---
 
-I'm a **passionate Software Engineer**, a graduate of ALX Africa's Software Engineering program. I’m currently expanding my knowledge and bringing my projects fully to life. I am also pursuing **AI/ML** at Aptech Nigeria. 
-My mission is to build tech solutions that solve real-world problems, with a special focus on **mental and physical well-being** and supporting women's health, particularly **postpartum depression**.
+I'm a **dedicated Software Engineer** and a proud graduate of ALX Africa's Software Engineering program. Currently, I'm deepening my expertise and bringing my projects to life while pursuing **AI/ML at Aptech Nigeria**.
+
+My passion lies in **building innovative tech solutions that address real-world challenges, with a strong focus on empowering small businesses online, enhancing mental and physical well-being, and supporting women's health**.
 
 ---
 
