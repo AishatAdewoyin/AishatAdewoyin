@@ -14,8 +14,8 @@
 
 ---
 
-I'm an **ardent Software Engineer**, a graduate of ALX Africa's Software Engineering program. I’m currently expanding my knowledge and bringing my projects fully to life. I am also pursuing **AI/ML** at Aptech Nigeria and a **Bachelor's Degree in Data Science 📜** at Miva Open University. 
-My mission is to build tech solutions that solve real-world problems, with a special focus on **mental well-being** and supporting women's health, particularly **postpartum depression**.
+I'm a **passionate Software Engineer**, a graduate of ALX Africa's Software Engineering program. I’m currently expanding my knowledge and bringing my projects fully to life. I am also pursuing **AI/ML** at Aptech Nigeria. 
+My mission is to build tech solutions that solve real-world problems, with a special focus on **mental and physical well-being** and supporting women's health, particularly **postpartum depression**.
 
 ---
 
@@ -31,10 +31,11 @@ My mission is to build tech solutions that solve real-world problems, with a spe
 ### 📚 Interesting Facts About Me:
 
 - ✍️ I love writing poems and listening to meaningful lyrics.
-- 🙇 Due to my struggles with impostor syndrome and self-criticism as I journey through my programming learning processes, I enjoy exploring themes like **self-acceptance, self-analysis, self-reliance, resilience, and growth** in my writing 
-- 🎨 I have a keen eye for **design, and yes 🙌 I love color**, which makes front-end development exciting for me.
-- 🧘‍♀️ I enjoy meditating and practicing mindfulness to maintain mental clarity while learning.
-- 🌍 I’m passionate about building **digital products** that solves real-world problems, especially in **mental health**.
+- 🙇 Due to my struggles with impostor syndrome and self-criticism as I journey through my programming learning processes, I explore themes of **self-acceptance, self-analysis, resilience, and growth in my writing**.
+
+- 🎨 I have a keen eye for **design, and yes 🙌 I love colors**, which makes front-end development exciting for me.
+- 🧘‍♀️ I enjoy jornaling and practicing mindfulness to maintain mental clarity while learning.
+- 🌍 With a strong background in full-stack development and a growing expertise in AI/ML, I'm committed to building impactful solutions that merge technology with real-world needs, particularly for small business, mental well-being and women's health.
 
 ---
 
