@@ -87,7 +87,6 @@ My passion lies in **building tech solutions that address real-world challenges,
 ### 📈 Connect with Me Through My Social Handles:
 
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishatadewoyin/)](https://www.linkedin.com/in/aishatadewoyin/)
-- **Twitter**: ![Twitter Follow](https://img.shields.io/twitter/follow/adewoyinaishat?style=social) — Follow me on Twitter for updates!
 - **YouTube**: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCD0tTuoB6R94gRwsscM7U2A?style=social) 
 ---
 
