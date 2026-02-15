@@ -1,15 +1,8 @@
 <h1>Hello World, I'm Aishat! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand"></h1>
 
 
-<p align="center">
+<p>
   <img src="https://github.com/AishatAdewoyin/AishatAdewoyin/blob/master/images/coder.gif?raw=true" alt="Coding GIF" width="650" height="350" />
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AishatAdewoyin&theme=darkhub&margin-w=8&no-bg=true&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -71,11 +64,8 @@ My passion lies in **building tech solutions that address real-world challenges,
 ### 📚 Interesting Facts About Me:
 
 - ✍️ I love writing poems and listening to meaningful lyrics.
-- 🙇 Due to my struggles with impostor syndrome and self-criticism as I journey through programming learning processes, I explore themes of **self-improvement, self-analysis, resilience, and growth mindset**.
 
 - 🎨 I have a keen eye for **design, and yes 🙌 I love colors**, which makes front-end development exciting for me.
-- 🧘‍♀️ I enjoy jornaling and practicing mindfulness to maintain mental clarity while learning.
-- 🌍 With a strong background in full-stack development and a growing expertise in AI integration, I'm committed to building impactful solutions that merge technology with real-world needs.
 
 ---
 
