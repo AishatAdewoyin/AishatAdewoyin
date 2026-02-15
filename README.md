@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand" />
 </h1>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github.com/AishatAdewoyin/AishatAdewoyin/blob/master/images/coding.gif?raw=true"
        alt="Coding animation"
        width="650" />
@@ -30,7 +30,7 @@ I am committed to continuous growth and practical implementation.
 
 ## GitHub Activity
 
-<div style="text-align: center;">
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishatAdewoyin&theme=tokyonight" alt="GitHub streak stats"/>
 </div>
 
@@ -38,7 +38,7 @@ I am committed to continuous growth and practical implementation.
 
 ## Technology Stack
 
-<div style="text-align: center;">
+<div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
